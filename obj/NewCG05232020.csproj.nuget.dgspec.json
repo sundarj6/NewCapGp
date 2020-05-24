@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jaysu\\source\\repos\\NewCG05232020\\NewCG05232020.csproj": {}
+    "C:\\GitRepo\\NewCapGp\\NewCG05232020.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jaysu\\source\\repos\\NewCG05232020\\NewCG05232020.csproj": {
+    "C:\\GitRepo\\NewCapGp\\NewCG05232020.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jaysu\\source\\repos\\NewCG05232020\\NewCG05232020.csproj",
+        "projectUniqueName": "C:\\GitRepo\\NewCapGp\\NewCG05232020.csproj",
         "projectName": "NewCG05232020",
-        "projectPath": "C:\\Users\\jaysu\\source\\repos\\NewCG05232020\\NewCG05232020.csproj",
+        "projectPath": "C:\\GitRepo\\NewCapGp\\NewCG05232020.csproj",
         "packagesPath": "C:\\Users\\jaysu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jaysu\\source\\repos\\NewCG05232020\\obj\\",
+        "outputPath": "C:\\GitRepo\\NewCapGp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jaysu\\AppData\\Roaming\\NuGet\\NuGet.Config",
