@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UhVMnBwEuu2KR0aYh7+RZg4b4Iu+mwSgYtQD8FT/QU+bzWT35GSn6WsE9/qEOuniKfLA+YjMRY8xccj7/SNv2g==",
+  "dgSpecHash": "Xlp4FUnOITVLjfqKCFgsWfIsl483oZlnxUv0nPMBY92cM5/5se+2wAW2EIxCAx2oJld/IZcSUJ+Q7fYNFIQqNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jaysu\\source\\repos\\NewCG05232020\\NewCG05232020.csproj",
+  "projectFilePath": "C:\\GitRepo\\NewCapGp\\NewCG05232020.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jaysu\\.nuget\\packages\\bodi\\1.4.1\\bodi.1.4.1.nupkg.sha512",
     "C:\\Users\\jaysu\\.nuget\\packages\\cucumber.messages\\6.0.1\\cucumber.messages.6.0.1.nupkg.sha512",
